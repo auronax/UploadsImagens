@@ -1,0 +1,48 @@
+
+.fieldset_formulario{
+    padding: 2% 0%;
+}
+
+.label_formulario{
+    float: left;
+    padding: 2% 1%;
+}
+
+
+.botao_upload{
+    border: 0px solid;
+    cursor: pointer;
+    width: 45%;
+}
+
+#galery-imagens {
+    width: 100%;
+    display: table;
+}
+
+#galery-imagens .div-image-pai {
+    width: 200px;
+    height: 200px;
+    float: left;
+    padding: 10px;
+    background-color: #f4f4f4;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin: 7px 5px;
+}
+
+#galery-imagens .width-image {
+    width: 72%;
+    margin: 0 auto;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.fechar_imagem{
+    cursor: pointer;
+    float: left;
+    margin: -5px -30px;
+    color: #F2175C;
+}
